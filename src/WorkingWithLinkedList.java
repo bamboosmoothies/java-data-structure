@@ -6,6 +6,20 @@ import java.util.LinkedList;
 public class WorkingWithLinkedList {
 
     public static void main(String[] args) {
+
+        /**
+         * LinkedList = stores Nodes in 2 parts (data + address)
+         * Nodes are in non-consecutive memory locations
+         * Elements are linked using pointers
+         * 
+         * advantages?
+         * 1. Dynamic Data STructure (allocates needed memory while running)
+         * 2. Insertion and DEletion of Nodes is easy. 0(1)
+         * 3. No/Low memory waste.
+         * 
+         * 
+         */
+
         LinkedList<String> linkedList = new LinkedList<String>();
 
         // linkedList.push("A");
