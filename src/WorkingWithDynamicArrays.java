@@ -18,7 +18,7 @@ public class WorkingWithDynamicArrays {
         // this is just demonstration. You would only use arrayList so don't bother
         // using DynamicArray SON.
 
-        ArrayList<String> arrayList = new ArrayList<String>();
+        // ArrayList<String> arrayList = new ArrayList<String>();
 
         DynamicArray dynamicArray = new DynamicArray();
         dynamicArray.add("A");
