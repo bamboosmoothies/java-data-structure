@@ -45,8 +45,8 @@ public class LinkedListsVSArrayLists {
 
         /**
          * LinkedList is hella slow compare to ArrayList.
-         * Exception: LinkedList is the fastest when indexing from the last index of a
-         * list.
+         * Exception: LinkedList is the fastest when searching for the last element from
+         * the last index of a list.
          */
     }
 }
