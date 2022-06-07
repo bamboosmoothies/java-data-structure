@@ -3,7 +3,7 @@ public class BigOnotation {
         /**
          * Big O Notation:
          * "How code slows as data grows."
-         * 1.) Desribes the perforamance of an algorithm as the amount of data increases
+         * 1.) Describes the performance of an algorithm as the amount of data increases
          * 2.) Machine independent (# of steps to completion)
          * 3.) Ignore smaller operations 0(n + 1) -> 0(n)
          * n = amount of data (it's a variable like x)
