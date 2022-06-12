@@ -1,6 +1,6 @@
 public class GraphIntro {
     /**
-     * Graph = non linear aggregatub if bides abd edges'
+     * Graph = non linear aggregations of nodes and edges
      * node = known as a vertex contains may contain some piece of data
      * edge = a connection between two nodes
      * 
