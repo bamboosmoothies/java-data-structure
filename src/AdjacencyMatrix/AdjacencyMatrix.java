@@ -1,3 +1,5 @@
+package AdjacencyMatrix;
+
 public class AdjacencyMatrix {
     public static void main(String[] args) {
         /**

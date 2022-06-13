@@ -1,3 +1,4 @@
+package AdjacencyList;
 
 public class Node {
     char data;
