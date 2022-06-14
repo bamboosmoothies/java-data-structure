@@ -11,7 +11,7 @@ public class WorkingWithHashMap {
      * 
      */
     public static void main(String[] args) {
-        HashMap<String, String> countries = new HashMap<String, String>();
+        HashMap<String, String> countries = new HashMap<>();
 
         // add a key & value
         countries.put("USA", "Washington DC");
